@@ -1,17 +1,17 @@
 [
     {
         "titulo": "Portfolio Single Page",
-        "descricao": "Porjeto de Site para Portfolio no estilo de página única",
+        "descricao": "Projeto de website para Portfolio no estilo de página única (single page)",
         "link": "https://fhricardo.github.io/portfolio-single-page-front-end-1i-2026/"
     },
     {
         "titulo": "Agregador de Links",
-        "descricao": "Porjeto Agregador de Links com modo claro e escuro",
+        "descricao": "Site Agregador de Links com modo claro e escuro",
         "link": "https://github.com/fhricardo/agregador-de-links-front-end-1i-2026"
     },
     {
         "titulo": "Lista de Tarefas",
-        "descricao": "Aplicação de Lista de Tarefas utilizando  LocalStorage.",
-        "link": "https://fhricardo.github.io/to-do-list-front-end-1i-2026/"
+        "descricao": "Aplicação de Lista de Tarefas utilizando localStorage.",
+        "link": "https://github.com/fhricardo/to-do-list-front-end-1i-2026"
     }
 ]
