@@ -23,5 +23,15 @@
         "titulo": "Catálogo de Produtos com Paginação e Filtro",
         "descricao": "Catálogo de Produtos utilizando HTML, CSS, JS e dados em JSON",
         "link": "https://github.com/fhricardo/catalogo-de-produtos-front-end-1i-2026"
+    },
+    {
+        "titulo": "Comandos Git",
+        "descricao": "Comandos Git para gerenciamento de repositórios de projetos",
+        "link": "https://github.com/fhricardo/catalogo-de-produtos-front-end-1i-2026"
+    },
+    {
+        "titulo": "Nike Air Jordan - Assets",
+        "descricao": "Imagens para o projeto da página de detalhes do Nike Air Jordan",
+        "link": "https://github.com/fhricardo/nike-air-jordan-assets"
     }
 ]
