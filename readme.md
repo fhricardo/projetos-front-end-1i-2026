@@ -15,4 +15,10 @@ Veja o repositório [clicando aqui](https://github.com/fhricardo/to-do-list-fron
 Veja o repositório [clicando aqui](https://github.com/fhricardo/calculadora-basica-front-end-1i-2026)
 
 ## Catálogo de Produtos com Paginação e Filtro
-Veja o repositório [clicando aqui](https://github.com/fhricardo/catalogo-de-produtos-front-end-1i-2026)
+Veja o repositório [clicando aqui](https://github.com/fhricardo/catalogo-de-produtos-front-end-1i-2026)  
+
+## Comandos Git
+Veja o repositório [clicando aqui](https://github.com/fhricardo/comandos-git-front-end-1i-2026)  
+
+## Nike Air Jordan - Assets
+Veja o repositório [clicando aqui](https://github.com/fhricardo/nike-air-jordan-assets)
