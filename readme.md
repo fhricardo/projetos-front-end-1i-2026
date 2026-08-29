@@ -22,3 +22,6 @@ Veja o repositório [clicando aqui](https://github.com/fhricardo/comandos-git-fr
 
 ## Nike Air Jordan - Assets
 Veja o repositório [clicando aqui](https://github.com/fhricardo/nike-air-jordan-assets)
+
+## Nike Air Jordan - Página de Detalhe de Produto
+Veja o repositório [clicando aqui](https://github.com/fhricardo/nike-air-jordan-detalhes)

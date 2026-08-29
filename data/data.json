@@ -20,8 +20,8 @@
         "link": "https://github.com/fhricardo/calculadora-basica-front-end-1i-2026"
     },
     {
-        "titulo": "Catálogo de Produtos com Paginação e Filtro",
-        "descricao": "Catálogo de Produtos utilizando HTML, CSS, JS e dados em JSON",
+        "titulo": "Catálogo de Produtos",
+        "descricao": "Catálogo de Produtos com Paginação e Filtro utilizando HTML, CSS, JS e dados em JSON",
         "link": "https://github.com/fhricardo/catalogo-de-produtos-front-end-1i-2026"
     },
     {
@@ -33,5 +33,10 @@
         "titulo": "Nike Air Jordan - Assets",
         "descricao": "Imagens para o projeto da página de detalhes do Nike Air Jordan",
         "link": "https://github.com/fhricardo/nike-air-jordan-assets"
+    },
+    {
+        "titulo": "Nike Air Jordan - Página de Detalhes",
+        "descricao": "Projeto da página de detalhes do Nike Air Jordan",
+        "link": "https://github.com/fhricardo/nike-air-jordan-detalhes"
     }
 ]
